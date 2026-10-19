@@ -1,12 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this replication code, please cite this repository."
 type: software
-title: "Replication Files for the paper 'The Effects of Expanded Prenatal Care on Maternal and Child Health: Evidence from Gestational Diabetes Screening'"
+title: "Replication files for Chapter 2 (The Effects of Expanded Prenatal Care on Maternal and Child Health: Evidence from Gestational Diabetes Screening) of the Dissertation "Essays on Public Policies and Human Capital Formation" 
 authors:
   - family-names: Barabasch
     given-names: Anton
-  - family-names: Cygan-Rehm
-    given-names: Kamila
-  - family-names: Kramer
-    given-names: Anica
 repository-code: "https://github.com/collderates95/GDM-Replication"
